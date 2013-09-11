@@ -14,6 +14,11 @@ module.exports = function(config) {
       // Vendor
       'components/bower-angular/angular.js',
       'components/bower-angular-mocks/angular-mocks.js',
+      'components/ng-gc-interval-messages-service/*.js',
+      'components/momentjs/moment.js',
+      'components/big.js/big.js',
+      'components/ng-gc-utils/**/*.js',
+      'components/ng-gc-filters/**/*.js',
 
       // Specs helpers
       'components/jasmine-helpers/*.js',
