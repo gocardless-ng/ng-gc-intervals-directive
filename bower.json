@@ -14,7 +14,7 @@
   },
   "ignore": [
     "**/.*",
-    "*.spec.js",
+    "**/*spec.js",
     "node_modules",
     "components",
     "package.json",
